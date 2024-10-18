@@ -10,6 +10,7 @@ Sou **Analista QA** com uma grande paixão por **tecnologia**, especialmente nas
 
 ## 🌱 Atualmente estou me aperfeiçoando:
 - Otimizando minhas habilidades de **automação de testes** e **desenvolvimento**.
+- Criando raízes no Cypress!!!
 - Explorando novas ferramentas de produtividade e automação.
 
 ## 📫 Onde me Encontrar:
